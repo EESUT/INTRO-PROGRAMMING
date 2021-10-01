@@ -1,5 +1,7 @@
 # INTRO PROGRAMMING
-Fundamentals and standards of programming and C++ course and examples prepared for INTRO PROGRAMMING course of Electrical Engineering of Sharif University of Technology
+This repository contains some excellent and organized questions for the C++ INTRO PROGRAMMING course of the Electrical Engineering department at the Sharif University of Technology.
+It also contains some helpful links for students' further learnings.
+This repository is not a tutorial itself; just containing materials for problem-solving classes, so you should participate in the TAs' classes to obtain full benefits.
 
 # Chapters
 
