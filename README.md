@@ -60,7 +60,7 @@ Fundamentals and standards of programming and C++ course and examples prepared f
   + What is Order?
   + Linked-list
   + Trees
-  + more abput cpp functions
+  + more about cpp functions
   + more examples
 
 + [Chapter 11](https://www.google.com)
