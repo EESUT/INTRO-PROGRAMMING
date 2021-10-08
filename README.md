@@ -56,14 +56,4 @@ This repository is not a tutorial itself; just containing materials for problem-
 + [Chapter 9](https://www.google.com)
   + Pointers
   + Struct
-  + files
-  
-+ [Chapter 10](https://www.google.com)
-  + What is Order?
-  + Linked-list
-  + Trees
-  + more about cpp functions
-  + more examples
-
-+ [Chapter 11](https://www.google.com)
-  + OOP in cpp
+  + Files
